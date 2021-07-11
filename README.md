@@ -20,3 +20,4 @@ https://github.com/kevin11h/7-step-blockchain/blob/master/7-Step-Blockchain.ipyn
 5. https://academy.binance.com/cs/articles/how-to-calculate-return-on-investment-roi
 6. https://academy.binance.com/cs/articles/what-is-a-network-effect
 7. https://academy.binance.com/cs/articles/how-to-mine-bitcoin
+![](https://github.com/kevin11h/7-Step-Blockchain/blob/master/academy-binance.png?raw=true)
