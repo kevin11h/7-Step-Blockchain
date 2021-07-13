@@ -21,3 +21,4 @@ https://github.com/kevin11h/7-step-blockchain/blob/master/7-Step-Blockchain.ipyn
 6. https://academy.binance.com/cs/articles/what-is-a-network-effect
 7. https://academy.binance.com/cs/articles/how-to-mine-bitcoin
 ![](https://github.com/kevin11h/7-Step-Blockchain/blob/master/academy-binance.png?raw=true)
+https://www.binance.com/en/blog/337068226927206400/OTC-Basics-by-Binance-Trading-
